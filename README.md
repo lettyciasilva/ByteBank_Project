@@ -15,7 +15,8 @@ Trata-se de um projeto que simula um sistema bancário em console, em linguagem 
   - Adicionado máscara nas senhas informadas;<br>
   - Validação de valores negativos ou nulos;<br>
   - Validação de transferência para o mesmo usuário;<br>
-  - Alteração de cores do terminal;
+  - Opções de SAQUE, DEPÓSITO e TRANSFERENCIA;<br>
+  - Alteração de cores do terminal;<br>
   
 <h2>💎 Implementações do novo Commit:</h2>
 <b>O projeto foi praticamente todo modificado. Principais alterações:</b><br>

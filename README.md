@@ -6,7 +6,7 @@ Trata-se de um projeto que simula um sistema bancário em console, em linguagem 
 <h2>🚦Observações para Uso do Programa:</h2>
   - O programa só aceita CPF's de 11 caracteres e senhas de 4 caracteres;<br>
   - Senha para acessar o Menu Funcionário: <b>0123</b> ;<br>
-  - Na Tela de Login do Cliente, ao inserir a senha incorreta <b>5 vezes</b> o usuário será bloqueado. <br>Para desbloquear é preciso acessar o Menu Funcionário.
+  - Na Tela de Login do Cliente, ao inserir a senha incorreta <b>5 vezes</b> o usuário será bloqueado. <br>Para desbloquear é preciso acessar o Menu Funcionário (Video Demonstrativo Abaixo).
   
 <h2>📌 Principais Características do Projeto:</h2>
   - Validação se já há contas cadastradas no sistema;<br>
@@ -26,11 +26,12 @@ Trata-se de um projeto que simula um sistema bancário em console, em linguagem 
   - Inclusão da Função SALDO no Menu do Cliente;<br>
   - Inclusão da Função DESBLOQUEAR USUARIO no Menu Funcionário;<br>
 
+<b><h3> ❗ O Projeto será aprimorado ao longo do curso! </h3>
+<br>
+  ![](BYTEBANK-VIDEO.gif)
+<br>
 
 
 
-
-  
-<b><h3> ❗ O Projeto será aprimorado ao longo do curso!
   
     

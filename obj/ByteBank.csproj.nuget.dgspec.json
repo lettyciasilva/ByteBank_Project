@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\letty\\Desktop\\ByteBank\\ByteBank.csproj": {}
+    "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\letty\\Desktop\\ByteBank\\ByteBank.csproj": {
+    "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\letty\\Desktop\\ByteBank\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\letty\\Desktop\\ByteBank\\ByteBank.csproj",
+        "projectPath": "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\ByteBank.csproj",
         "packagesPath": "C:\\Users\\letty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\letty\\Desktop\\ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

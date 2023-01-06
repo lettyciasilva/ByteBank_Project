@@ -28,3 +28,5 @@ C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\obj\Debug\net6.0\refint\Byt
 C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\obj\Debug\net6.0\ByteBank.pdb
 C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
 C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
+C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\letty\Desktop\SHARPCODERS\PROJETOS\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CopyComplete

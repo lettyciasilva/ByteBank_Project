@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rP7Nxn+HzWkatDJCbHns/1AFsM2YSjJdMWD5Z74lbdXpYc1D0AQOVlkeDBHJtBDdXxgZxCXuOSIRTX64Aaabjg==",
+  "dgSpecHash": "iX5qpnBJAdkLcszxE6ep5lQz8CmVuiSbE9/y2R7dZZqeVlpBfIiEoTymdAWaabkuizFLG9UZJ5skV/rEhF6Jpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\letty\\Desktop\\ByteBank\\ByteBank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\letty\\Desktop\\SHARPCODERS\\PROJETOS\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\letty\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
